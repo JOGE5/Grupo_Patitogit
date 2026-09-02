@@ -1,0 +1,381 @@
+fecha,equipo_local,equipo_visitante,goles_local,goles_visitante,resultado,elo_local,elo_visitante
+2025-08-15,Girona,Vallecano,1,3,A,1500,1500
+2025-08-15,Villarreal,Oviedo,2,0,S,1500,1500
+2025-08-16,Mallorca,Barcelona,0,3,A,1500,1500
+2025-08-16,Alaves,Levante,2,1,S,1500,1500
+2025-08-16,Valencia,Sociedad,1,1,H,1500,1500
+2025-08-17,Celta,Getafe,0,2,A,1500,1500
+2025-08-17,Ath Bilbao,Sevilla,3,2,S,1500,1500
+2025-08-17,Espanol,Ath Madrid,2,1,S,1500,1500
+2025-08-18,Elche,Betis,1,1,H,1500,1500
+2025-08-19,Real Madrid,Osasuna,1,0,S,1500,1500
+2025-08-22,Betis,Alaves,1,0,S,1500,1516
+2025-08-23,Mallorca,Celta,1,1,H,1484,1484
+2025-08-23,Ath Madrid,Elche,1,1,H,1484,1500
+2025-08-23,Levante,Barcelona,2,3,A,1484,1516
+2025-08-24,Osasuna,Valencia,1,0,S,1484,1500
+2025-08-24,Sociedad,Espanol,2,2,H,1500,1516
+2025-08-24,Villarreal,Girona,5,0,S,1516,1484
+2025-08-24,Oviedo,Real Madrid,0,3,A,1484,1516
+2025-08-25,Ath Bilbao,Vallecano,1,0,S,1516,1516
+2025-08-25,Sevilla,Getafe,1,2,A,1484,1516
+2025-08-27,Celta,Betis,1,1,H,1484,1517
+2025-08-29,Elche,Levante,2,0,S,1499,1469
+2025-08-29,Valencia,Getafe,3,0,S,1483,1531
+2025-08-30,Alaves,Ath Madrid,1,1,H,1499,1485
+2025-08-30,Oviedo,Sociedad,1,0,S,1469,1501
+2025-08-30,Girona,Sevilla,0,2,A,1469,1469
+2025-08-30,Real Madrid,Mallorca,2,1,S,1531,1484
+2025-08-31,Celta,Villarreal,1,1,H,1486,1531
+2025-08-31,Betis,Ath Bilbao,1,2,A,1515,1532
+2025-08-31,Espanol,Osasuna,1,0,S,1515,1501
+2025-08-31,Vallecano,Barcelona,1,1,H,1500,1531
+2025-09-12,Sevilla,Elche,2,2,H,1485,1514
+2025-09-13,Getafe,Oviedo,2,0,S,1513,1486
+2025-09-13,Sociedad,Real Madrid,1,2,A,1484,1545
+2025-09-13,Ath Bilbao,Alaves,0,1,A,1547,1498
+2025-09-13,Ath Madrid,Villarreal,2,0,S,1486,1529
+2025-09-14,Celta,Girona,1,1,H,1488,1453
+2025-09-14,Levante,Betis,2,2,H,1454,1500
+2025-09-14,Osasuna,Vallecano,2,0,S,1486,1501
+2025-09-14,Barcelona,Valencia,6,0,S,1530,1501
+2025-09-15,Espanol,Mallorca,3,2,S,1530,1470
+2025-09-19,Betis,Sociedad,3,1,S,1498,1471
+2025-09-20,Girona,Levante,0,4,A,1455,1456
+2025-09-20,Villarreal,Osasuna,2,1,S,1511,1503
+2025-09-20,Real Madrid,Espanol,2,0,S,1558,1543
+2025-09-20,Alaves,Sevilla,1,2,A,1516,1486
+2025-09-20,Valencia,Ath Bilbao,2,0,S,1486,1529
+2025-09-21,Vallecano,Celta,1,1,H,1484,1486
+2025-09-21,Mallorca,Ath Madrid,1,1,H,1457,1504
+2025-09-21,Elche,Oviedo,1,0,S,1513,1471
+2025-09-21,Barcelona,Getafe,3,0,S,1545,1528
+2025-09-23,Ath Bilbao,Girona,1,1,H,1511,1439
+2025-09-23,Espanol,Valencia,2,2,H,1528,1504
+2025-09-23,Levante,Real Madrid,1,4,A,1472,1573
+2025-09-23,Sevilla,Villarreal,1,2,A,1503,1527
+2025-09-24,Ath Madrid,Vallecano,3,2,S,1502,1484
+2025-09-24,Sociedad,Mallorca,1,0,S,1456,1459
+2025-09-24,Getafe,Alaves,1,1,H,1513,1499
+2025-09-25,Osasuna,Elche,1,1,H,1487,1527
+2025-09-25,Oviedo,Barcelona,1,3,A,1457,1560
+2025-09-26,Girona,Espanol,0,0,H,1442,1527
+2025-09-27,Mallorca,Alaves,1,0,S,1443,1500
+2025-09-27,Villarreal,Ath Bilbao,1,0,S,1542,1508
+2025-09-27,Getafe,Levante,1,1,H,1512,1461
+2025-09-27,Ath Madrid,Real Madrid,5,2,S,1517,1584
+2025-09-28,Elche,Celta,2,1,S,1525,1486
+2025-09-28,Vallecano,Sevilla,0,1,A,1469,1488
+2025-09-28,Betis,Osasuna,2,0,S,1513,1489
+2025-09-28,Barcelona,Sociedad,2,1,S,1571,1472
+2025-09-30,Valencia,Oviedo,1,2,A,1505,1446
+2025-10-03,Osasuna,Getafe,2,1,S,1474,1510
+2025-10-04,Oviedo,Levante,0,2,A,1465,1463
+2025-10-04,Girona,Valencia,2,1,S,1446,1486
+2025-10-04,Ath Bilbao,Mallorca,2,1,S,1494,1462
+2025-10-04,Real Madrid,Villarreal,3,1,S,1565,1556
+2025-10-05,Alaves,Elche,3,1,S,1481,1539
+2025-10-05,Espanol,Betis,1,2,A,1523,1528
+2025-10-05,Celta,Ath Madrid,1,1,H,1472,1536
+2025-10-05,Sociedad,Vallecano,0,1,A,1460,1454
+2025-10-05,Sevilla,Barcelona,4,1,S,1503,1583
+2025-10-17,Oviedo,Espanol,0,2,A,1449,1507
+2025-10-18,Villarreal,Betis,2,2,H,1540,1544
+2025-10-18,Ath Madrid,Osasuna,1,0,S,1533,1492
+2025-10-18,Sevilla,Mallorca,1,3,A,1523,1447
+2025-10-18,Barcelona,Girona,2,1,S,1563,1464
+2025-10-19,Elche,Ath Bilbao,0,0,H,1520,1509
+2025-10-19,Celta,Sociedad,1,1,H,1475,1444
+2025-10-19,Levante,Vallecano,0,3,A,1479,1470
+2025-10-19,Getafe,Real Madrid,0,1,A,1492,1581
+2025-10-20,Alaves,Valencia,0,0,H,1500,1468
+2025-10-24,Sociedad,Sevilla,2,1,S,1445,1504
+2025-10-25,Girona,Oviedo,3,3,H,1452,1436
+2025-10-25,Espanol,Elche,1,0,S,1520,1519
+2025-10-25,Ath Bilbao,Getafe,0,1,A,1510,1480
+2025-10-25,Valencia,Villarreal,0,2,A,1469,1540
+2025-10-26,Mallorca,Levante,1,1,H,1466,1463
+2025-10-26,Real Madrid,Barcelona,2,1,S,1593,1575
+2025-10-26,Osasuna,Celta,2,3,A,1478,1474
+2025-10-26,Vallecano,Alaves,1,0,S,1486,1499
+2025-10-27,Betis,Ath Madrid,0,2,A,1544,1547
+2025-10-31,Getafe,Girona,2,1,S,1497,1451
+2025-11-01,Villarreal,Vallecano,4,0,S,1553,1503
+2025-11-01,Ath Madrid,Sevilla,3,0,S,1563,1485
+2025-11-01,Sociedad,Ath Bilbao,3,2,S,1464,1493
+2025-11-01,Real Madrid,Valencia,4,0,S,1608,1456
+2025-11-02,Levante,Celta,1,2,A,1463,1490
+2025-11-02,Alaves,Espanol,2,1,S,1482,1536
+2025-11-02,Barcelona,Elche,3,1,S,1560,1503
+2025-11-02,Betis,Mallorca,3,0,S,1528,1466
+2025-11-03,Oviedo,Osasuna,0,0,H,1437,1462
+2025-11-07,Elche,Sociedad,1,1,H,1490,1481
+2025-11-08,Girona,Alaves,1,0,S,1437,1500
+2025-11-08,Sevilla,Osasuna,1,0,S,1473,1461
+2025-11-08,Ath Madrid,Levante,3,1,S,1575,1448
+2025-11-08,Espanol,Villarreal,0,2,A,1518,1567
+2025-11-09,Mallorca,Getafe,1,0,S,1453,1511
+2025-11-09,Ath Bilbao,Oviedo,1,0,S,1476,1438
+2025-11-09,Valencia,Betis,1,1,H,1447,1541
+2025-11-09,Celta,Barcelona,2,4,A,1505,1573
+2025-11-09,Vallecano,Real Madrid,0,0,H,1489,1617
+2025-11-21,Valencia,Levante,1,0,S,1451,1438
+2025-11-22,Alaves,Celta,0,1,A,1481,1492
+2025-11-22,Barcelona,Ath Bilbao,4,0,S,1586,1490
+2025-11-22,Osasuna,Sociedad,1,3,A,1446,1481
+2025-11-22,Villarreal,Mallorca,2,1,S,1581,1472
+2025-11-23,Oviedo,Vallecano,0,0,H,1424,1495
+2025-11-23,Betis,Girona,1,1,H,1537,1456
+2025-11-23,Getafe,Ath Madrid,0,1,A,1492,1585
+2025-11-23,Elche,Real Madrid,2,2,H,1490,1611
+2025-11-24,Espanol,Sevilla,2,1,S,1504,1488
+2025-11-28,Getafe,Elche,1,0,S,1480,1495
+2025-11-29,Mallorca,Osasuna,2,2,H,1461,1432
+2025-11-29,Barcelona,Alaves,3,1,S,1598,1466
+2025-11-29,Levante,Ath Bilbao,0,2,A,1423,1478
+2025-11-29,Ath Madrid,Oviedo,2,0,S,1597,1427
+2025-11-30,Sociedad,Villarreal,2,3,A,1495,1592
+2025-11-30,Sevilla,Betis,0,2,A,1473,1533
+2025-11-30,Celta,Espanol,0,1,A,1507,1519
+2025-11-30,Girona,Real Madrid,1,1,H,1460,1606
+2025-12-01,Vallecano,Valencia,1,1,H,1492,1466
+2025-12-02,Barcelona,Ath Madrid,3,1,S,1608,1606
+2025-12-03,Ath Bilbao,Real Madrid,0,3,A,1491,1600
+2025-12-05,Oviedo,Mallorca,0,0,H,1418,1460
+2025-12-06,Villarreal,Getafe,2,0,S,1604,1497
+2025-12-06,Alaves,Sociedad,1,0,S,1456,1483
+2025-12-06,Betis,Barcelona,3,5,A,1546,1624
+2025-12-06,Ath Bilbao,Ath Madrid,1,0,S,1480,1590
+2025-12-07,Elche,Girona,3,0,S,1478,1466
+2025-12-07,Valencia,Sevilla,1,1,H,1467,1460
+2025-12-07,Espanol,Vallecano,1,0,S,1534,1491
+2025-12-07,Real Madrid,Celta,0,2,A,1611,1492
+2025-12-08,Osasuna,Levante,2,0,S,1433,1410
+2025-12-12,Sociedad,Girona,1,2,A,1466,1451
+2025-12-13,Ath Madrid,Valencia,2,1,S,1569,1467
+2025-12-13,Mallorca,Elche,3,1,S,1458,1493
+2025-12-13,Barcelona,Osasuna,2,0,S,1636,1448
+2025-12-13,Getafe,Espanol,0,1,A,1486,1548
+2025-12-14,Sevilla,Oviedo,4,0,S,1460,1420
+2025-12-14,Celta,Ath Bilbao,2,0,S,1513,1501
+2025-12-14,Alaves,Real Madrid,1,2,A,1473,1590
+2025-12-15,Vallecano,Betis,0,0,H,1477,1534
+2025-12-19,Valencia,Mallorca,1,1,H,1456,1476
+2025-12-20,Levante,Sociedad,1,1,H,1395,1449
+2025-12-20,Oviedo,Celta,0,0,H,1406,1528
+2025-12-20,Real Madrid,Sevilla,2,0,S,1601,1474
+2025-12-20,Osasuna,Alaves,3,0,S,1440,1462
+2025-12-21,Girona,Ath Madrid,0,3,A,1468,1580
+2025-12-21,Villarreal,Barcelona,0,2,A,1615,1644
+2025-12-21,Elche,Vallecano,4,0,S,1475,1480
+2025-12-21,Betis,Getafe,4,0,S,1531,1473
+2025-12-22,Ath Bilbao,Espanol,1,2,A,1486,1561
+2026-01-02,Vallecano,Getafe,1,1,H,1464,1460
+2026-01-03,Osasuna,Ath Bilbao,1,1,H,1457,1473
+2026-01-03,Elche,Villarreal,1,3,A,1491,1600
+2026-01-03,Celta,Valencia,4,1,S,1523,1457
+2026-01-03,Espanol,Barcelona,0,2,A,1574,1659
+2026-01-04,Alaves,Oviedo,1,1,H,1445,1411
+2026-01-04,Real Madrid,Betis,5,1,S,1611,1544
+2026-01-04,Sociedad,Ath Madrid,1,1,H,1447,1591
+2026-01-04,Mallorca,Girona,1,2,A,1475,1457
+2026-01-04,Sevilla,Levante,0,3,A,1464,1397
+2026-01-09,Getafe,Sociedad,1,2,A,1460,1453
+2026-01-10,Villarreal,Alaves,3,1,S,1611,1443
+2026-01-10,Girona,Osasuna,1,0,S,1474,1458
+2026-01-10,Oviedo,Betis,1,1,H,1413,1531
+2026-01-10,Valencia,Elche,1,1,H,1444,1480
+2026-01-11,Vallecano,Mallorca,2,1,S,1464,1458
+2026-01-11,Levante,Espanol,1,1,H,1416,1562
+2026-01-12,Sevilla,Celta,0,1,A,1445,1536
+2026-01-16,Espanol,Girona,0,2,A,1556,1489
+2026-01-17,Real Madrid,Levante,2,0,S,1624,1422
+2026-01-17,Mallorca,Ath Bilbao,3,2,S,1442,1472
+2026-01-17,Osasuna,Oviedo,3,2,S,1443,1418
+2026-01-17,Betis,Villarreal,2,0,S,1526,1620
+2026-01-18,Getafe,Valencia,0,1,A,1444,1446
+2026-01-18,Ath Madrid,Alaves,1,0,S,1585,1434
+2026-01-18,Celta,Vallecano,3,0,S,1548,1480
+2026-01-18,Sociedad,Barcelona,2,1,S,1469,1671
+2026-01-19,Elche,Sevilla,2,2,H,1478,1433
+2026-01-23,Levante,Elche,3,2,S,1414,1476
+2026-01-24,Valencia,Espanol,3,2,S,1462,1537
+2026-01-24,Vallecano,Osasuna,1,3,A,1467,1458
+2026-01-24,Villarreal,Real Madrid,0,2,A,1600,1632
+2026-01-24,Sevilla,Ath Bilbao,2,1,S,1435,1455
+2026-01-25,Ath Madrid,Mallorca,3,0,S,1594,1459
+2026-01-25,Barcelona,Oviedo,3,0,S,1647,1403
+2026-01-25,Sociedad,Celta,3,1,S,1493,1561
+2026-01-25,Alaves,Betis,2,1,S,1425,1546
+2026-01-26,Girona,Getafe,1,1,H,1508,1428
+2026-01-30,Espanol,Alaves,1,2,A,1518,1446
+2026-01-31,Oviedo,Girona,1,0,S,1397,1504
+2026-01-31,Osasuna,Villarreal,2,2,H,1474,1585
+2026-01-31,Levante,Ath Madrid,0,0,H,1433,1604
+2026-01-31,Elche,Barcelona,1,3,A,1457,1653
+2026-02-01,Real Madrid,Vallecano,2,1,S,1647,1451
+2026-02-01,Betis,Valencia,2,1,S,1525,1481
+2026-02-01,Getafe,Celta,0,0,H,1432,1542
+2026-02-01,Ath Bilbao,Sociedad,1,1,H,1438,1512
+2026-02-02,Mallorca,Sevilla,4,1,S,1449,1452
+2026-02-06,Celta,Osasuna,1,2,A,1537,1479
+2026-02-07,Barcelona,Mallorca,3,0,S,1661,1465
+2026-02-07,Sociedad,Elche,3,1,S,1509,1449
+2026-02-08,Sevilla,Girona,1,1,H,1436,1483
+2026-02-08,Alaves,Getafe,0,2,A,1465,1437
+2026-02-08,Ath Madrid,Betis,0,1,A,1597,1539
+2026-02-08,Valencia,Real Madrid,0,2,A,1467,1655
+2026-02-08,Ath Bilbao,Levante,4,2,S,1441,1440
+2026-02-09,Villarreal,Espanol,4,1,S,1580,1499
+2026-02-13,Elche,Osasuna,0,0,H,1436,1498
+2026-02-14,Sevilla,Alaves,1,1,H,1438,1448
+2026-02-14,Real Madrid,Sociedad,4,1,S,1663,1522
+2026-02-14,Espanol,Celta,2,2,H,1487,1518
+2026-02-14,Getafe,Villarreal,2,1,S,1454,1592
+2026-02-15,Oviedo,Ath Bilbao,1,2,A,1418,1457
+2026-02-15,Vallecano,Ath Madrid,3,0,S,1443,1578
+2026-02-15,Levante,Valencia,0,2,A,1424,1459
+2026-02-15,Mallorca,Betis,1,2,A,1457,1558
+2026-02-16,Girona,Barcelona,2,1,S,1481,1669
+2026-02-18,Levante,Villarreal,0,1,A,1410,1570
+2026-02-20,Ath Bilbao,Elche,2,1,S,1471,1439
+2026-02-21,Sociedad,Oviedo,3,3,H,1512,1404
+2026-02-21,Betis,Vallecano,1,1,H,1569,1465
+2026-02-21,Osasuna,Real Madrid,2,1,S,1495,1673
+2026-02-21,Ath Madrid,Espanol,4,2,S,1556,1488
+2026-02-22,Barcelona,Levante,3,0,S,1645,1401
+2026-02-22,Getafe,Sevilla,0,1,A,1476,1438
+2026-02-22,Villarreal,Valencia,2,1,S,1579,1473
+2026-02-22,Celta,Mallorca,2,0,S,1517,1446
+2026-02-23,Alaves,Girona,2,2,H,1448,1505
+2026-02-27,Levante,Alaves,2,0,S,1395,1451
+2026-02-28,Vallecano,Ath Bilbao,1,1,H,1470,1486
+2026-02-28,Barcelona,Villarreal,4,1,S,1651,1590
+2026-02-28,Mallorca,Sociedad,0,1,A,1433,1507
+2026-02-28,Oviedo,Ath Madrid,0,1,A,1409,1569
+2026-03-01,Valencia,Osasuna,1,0,S,1462,1519
+2026-03-01,Betis,Sevilla,2,2,H,1564,1456
+2026-03-01,Elche,Espanol,2,2,H,1424,1475
+2026-03-01,Girona,Celta,1,2,A,1502,1530
+2026-03-02,Real Madrid,Getafe,0,1,A,1649,1458
+2026-03-04,Vallecano,Oviedo,3,0,S,1471,1400
+2026-03-06,Celta,Real Madrid,1,2,A,1545,1625
+2026-03-07,Osasuna,Mallorca,2,2,H,1500,1420
+2026-03-07,Levante,Girona,1,1,H,1414,1487
+2026-03-07,Ath Madrid,Sociedad,3,2,S,1578,1520
+2026-03-07,Ath Bilbao,Barcelona,0,1,A,1485,1664
+2026-03-08,Villarreal,Elche,2,1,S,1577,1426
+2026-03-08,Getafe,Betis,2,0,S,1482,1559
+2026-03-08,Sevilla,Vallecano,1,1,H,1461,1484
+2026-03-08,Valencia,Alaves,3,2,S,1481,1432
+2026-03-09,Espanol,Oviedo,1,1,H,1473,1387
+2026-03-13,Alaves,Villarreal,1,1,H,1418,1586
+2026-03-14,Girona,Ath Bilbao,3,0,S,1484,1477
+2026-03-14,Ath Madrid,Getafe,1,0,S,1591,1501
+2026-03-14,Oviedo,Valencia,1,0,S,1391,1495
+2026-03-14,Real Madrid,Elche,4,1,S,1637,1417
+2026-03-15,Mallorca,Espanol,2,1,S,1424,1469
+2026-03-15,Barcelona,Sevilla,5,2,S,1672,1462
+2026-03-15,Betis,Celta,1,1,H,1540,1533
+2026-03-15,Sociedad,Osasuna,3,1,S,1507,1496
+2026-03-16,Vallecano,Levante,1,1,H,1483,1417
+2026-03-20,Villarreal,Sociedad,3,1,S,1579,1522
+2026-03-21,Espanol,Getafe,1,2,A,1451,1489
+2026-03-21,Osasuna,Girona,1,0,S,1481,1500
+2026-03-21,Elche,Mallorca,2,1,S,1410,1442
+2026-03-21,Sevilla,Valencia,0,2,A,1455,1474
+2026-03-21,Levante,Oviedo,4,2,S,1420,1412
+2026-03-22,Barcelona,Vallecano,1,0,S,1679,1480
+2026-03-22,Celta,Alaves,3,4,A,1533,1425
+2026-03-22,Ath Bilbao,Betis,2,1,S,1461,1540
+2026-03-22,Real Madrid,Ath Madrid,3,2,S,1644,1603
+2026-04-03,Vallecano,Elche,1,0,S,1472,1427
+2026-04-04,Sociedad,Levante,2,0,S,1509,1436
+2026-04-04,Mallorca,Real Madrid,2,1,S,1425,1658
+2026-04-04,Betis,Espanol,0,0,H,1520,1437
+2026-04-04,Ath Madrid,Barcelona,1,2,A,1589,1687
+2026-04-05,Getafe,Ath Bilbao,2,0,S,1503,1481
+2026-04-05,Valencia,Celta,2,3,A,1489,1512
+2026-04-05,Oviedo,Sevilla,1,0,S,1396,1440
+2026-04-05,Alaves,Osasuna,2,2,H,1446,1498
+2026-04-06,Girona,Villarreal,1,0,S,1483,1592
+2026-04-10,Real Madrid,Girona,1,1,H,1633,1504
+2026-04-11,Sociedad,Alaves,3,3,H,1522,1448
+2026-04-11,Elche,Valencia,1,0,S,1413,1474
+2026-04-11,Barcelona,Espanol,4,1,S,1699,1441
+2026-04-11,Sevilla,Ath Madrid,2,1,S,1422,1577
+2026-04-12,Osasuna,Betis,1,1,H,1496,1516
+2026-04-12,Mallorca,Vallecano,3,0,S,1450,1486
+2026-04-12,Celta,Oviedo,0,3,A,1527,1414
+2026-04-12,Ath Bilbao,Villarreal,1,2,A,1466,1571
+2026-04-13,Levante,Getafe,1,0,S,1423,1518
+2026-04-21,Ath Bilbao,Osasuna,1,0,S,1455,1497
+2026-04-21,Mallorca,Valencia,1,1,H,1468,1455
+2026-04-21,Girona,Betis,2,3,A,1510,1515
+2026-04-21,Real Madrid,Alaves,2,1,S,1627,1451
+2026-04-22,Barcelona,Celta,1,0,S,1705,1506
+2026-04-22,Elche,Ath Madrid,3,2,S,1432,1554
+2026-04-22,Sociedad,Getafe,0,1,A,1519,1498
+2026-04-23,Levante,Sevilla,2,0,S,1443,1445
+2026-04-23,Vallecano,Espanol,1,0,S,1468,1435
+2026-04-23,Oviedo,Villarreal,1,1,H,1435,1582
+2026-04-24,Betis,Real Madrid,1,1,H,1531,1636
+2026-04-25,Valencia,Girona,2,1,S,1456,1494
+2026-04-25,Ath Madrid,Ath Bilbao,3,2,S,1533,1473
+2026-04-25,Alaves,Mallorca,2,1,S,1442,1467
+2026-04-25,Getafe,Barcelona,0,2,A,1515,1713
+2026-04-26,Vallecano,Sociedad,3,3,H,1482,1502
+2026-04-26,Oviedo,Elche,1,2,A,1441,1453
+2026-04-26,Osasuna,Sevilla,2,1,S,1479,1429
+2026-04-26,Villarreal,Celta,2,1,S,1576,1498
+2026-04-27,Espanol,Levante,0,0,H,1421,1459
+2026-05-01,Girona,Mallorca,0,1,A,1476,1450
+2026-05-02,Valencia,Ath Madrid,0,2,A,1474,1546
+2026-05-02,Villarreal,Levante,5,1,S,1588,1457
+2026-05-02,Osasuna,Barcelona,1,2,A,1493,1721
+2026-05-02,Alaves,Ath Bilbao,2,4,A,1459,1460
+2026-05-03,Celta,Elche,3,1,S,1486,1468
+2026-05-03,Getafe,Vallecano,0,2,A,1507,1483
+2026-05-03,Betis,Oviedo,3,0,S,1536,1426
+2026-05-03,Espanol,Real Madrid,0,2,A,1423,1631
+2026-05-04,Sevilla,Sociedad,1,0,S,1415,1501
+2026-05-08,Levante,Osasuna,3,2,S,1447,1486
+2026-05-09,Elche,Alaves,1,1,H,1453,1443
+2026-05-09,Sevilla,Espanol,2,1,S,1435,1416
+2026-05-09,Ath Madrid,Celta,0,1,A,1559,1501
+2026-05-09,Sociedad,Betis,2,2,H,1481,1547
+2026-05-10,Mallorca,Villarreal,1,1,H,1467,1598
+2026-05-10,Ath Bilbao,Valencia,0,1,A,1476,1461
+2026-05-10,Oviedo,Getafe,0,0,H,1415,1490
+2026-05-10,Barcelona,Real Madrid,2,0,S,1728,1638
+2026-05-11,Vallecano,Girona,1,1,H,1500,1459
+2026-05-12,Osasuna,Ath Madrid,1,2,A,1468,1540
+2026-05-12,Celta,Levante,2,3,A,1520,1465
+2026-05-12,Betis,Elche,2,1,S,1544,1453
+2026-05-13,Villarreal,Sevilla,2,3,A,1592,1450
+2026-05-13,Espanol,Ath Bilbao,2,0,S,1401,1459
+2026-05-13,Getafe,Mallorca,3,1,S,1487,1473
+2026-05-13,Alaves,Barcelona,1,0,S,1443,1740
+2026-05-14,Valencia,Vallecano,1,1,H,1478,1498
+2026-05-14,Girona,Sociedad,1,1,H,1461,1484
+2026-05-14,Real Madrid,Oviedo,2,0,S,1626,1418
+2026-05-17,Vallecano,Villarreal,2,0,S,1497,1570
+2026-05-17,Barcelona,Betis,3,1,S,1713,1556
+2026-05-17,Ath Bilbao,Celta,1,1,H,1440,1501
+2026-05-17,Ath Madrid,Girona,1,0,S,1553,1462
+2026-05-17,Elche,Getafe,1,0,S,1441,1502
+2026-05-17,Levante,Mallorca,2,0,S,1484,1458
+2026-05-17,Osasuna,Espanol,1,2,A,1455,1420
+2026-05-17,Oviedo,Alaves,0,1,A,1411,1470
+2026-05-17,Sevilla,Real Madrid,0,1,A,1472,1633
+2026-05-17,Sociedad,Valencia,3,4,A,1483,1479
+2026-05-23,Betis,Levante,2,1,S,1547,1499
+2026-05-23,Celta,Sevilla,1,0,S,1498,1463
+2026-05-23,Alaves,Vallecano,1,2,A,1483,1516
+2026-05-23,Valencia,Barcelona,3,1,S,1495,1722
+2026-05-23,Espanol,Sociedad,1,1,H,1438,1467
+2026-05-23,Real Madrid,Ath Bilbao,4,2,S,1642,1443
+2026-05-23,Girona,Elche,1,1,H,1450,1460
+2026-05-23,Mallorca,Oviedo,3,0,S,1443,1398
+2026-05-23,Getafe,Osasuna,1,0,S,1483,1437
+2026-05-24,Villarreal,Ath Madrid,5,1,S,1551,1565
