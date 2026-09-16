@@ -1,11 +1,19 @@
 import pandas as pd
+from pathlib import Path
+
+RAIZ = Path(__file__).resolve().parents[2]
 
 
 # ==========================================
 # 1. LEER LOS DATOS REALES
 # ==========================================
 
-datos = pd.read_csv("la_liga.csv")
+datos = pd.read_csv(
+    RAIZ
+    / "Data"
+    / "raw"
+    / "la_liga.csv"
+)
 
 
 # ==========================================
@@ -83,7 +91,10 @@ datos_limpios = datos_limpios.sort_values(
 # ==========================================
 
 datos_limpios.to_csv(
-    "partidos_limpios.csv",
+    RAIZ
+    / "Data"
+    / "processed"
+    / "partidos_limpios.csv",
     index=False
 )
 

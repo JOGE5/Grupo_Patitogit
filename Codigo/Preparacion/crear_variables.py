@@ -1,11 +1,19 @@
 import pandas as pd
+from pathlib import Path
+
+RAIZ = Path(__file__).resolve().parents[2]
 
 
 # ==========================================
 # 1. LEER LOS PARTIDOS LIMPIOS
 # ==========================================
 
-datos = pd.read_csv("partidos_limpios.csv")
+datos = pd.read_csv(
+    RAIZ
+    / "Data"
+    / "processed"
+    / "partidos_limpios.csv"
+)
 
 # Convertimos fecha a formato fecha
 datos["fecha"] = pd.to_datetime(datos["fecha"])
@@ -127,7 +135,10 @@ datos["elo_visitante"] = elos_visitantes
 # ==========================================
 
 datos.to_csv(
-    "partidos_modelo.csv",
+    RAIZ
+    / "Data"
+    / "processed"
+    / "partidos_modelo.csv",
     index=False
 )
 

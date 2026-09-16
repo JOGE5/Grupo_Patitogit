@@ -5,6 +5,9 @@
 # Pandas sirve para trabajar con los datos
 import pandas as pd
 
+# Path permite manejar rutas de forma segura
+from pathlib import Path
+
 # Random Forest será nuestro modelo de Machine Learning
 from sklearn.ensemble import RandomForestClassifier
 
@@ -17,17 +20,37 @@ from sklearn.metrics import (
 
 
 # ==========================================
+# RUTA DEL PROYECTO
+# ==========================================
+
+# Detectamos automáticamente la carpeta raíz
+# Grupo_Patitogit/
+RAIZ = Path(__file__).resolve().parents[2]
+
+
+# ==========================================
 # 1. LEER LOS DATOS REALES
 # ==========================================
 
-# Este archivo fue creado previamente por crear_variables.py
-datos = pd.read_csv("partidos_modelo.csv")
+# Este archivo fue creado previamente
+# por crear_variables.py
+
+RUTA_DATOS = (
+    RAIZ
+    / "Data"
+    / "processed"
+    / "partidos_modelo.csv"
+)
+
+datos = pd.read_csv(RUTA_DATOS)
 
 print("==============================")
 print("DATOS CARGADOS")
 print("==============================")
-
-print("Cantidad total de partidos:", len(datos))
+print(
+    "Cantidad total de partidos:",
+    len(datos)
+)
 
 
 # ==========================================
@@ -69,13 +92,14 @@ y = datos["resultado"]
 # 20% para probar
 #
 # NO mezclamos los partidos porque son datos
-# cronológicos. Queremos entrenar con partidos
-# antiguos y probar con partidos posteriores.
+# cronológicos.
+#
+# Entrenamos con partidos antiguos
+# y probamos con partidos posteriores.
 
 punto_division = int(
     len(datos) * 0.80
 )
-
 
 # Primer 80%
 X_entrenamiento = X.iloc[
@@ -85,7 +109,6 @@ X_entrenamiento = X.iloc[
 y_entrenamiento = y.iloc[
     :punto_division
 ]
-
 
 # Último 20%
 X_prueba = X.iloc[
@@ -117,7 +140,6 @@ print(
 # ==========================================
 
 modelo = RandomForestClassifier(
-
     # Cantidad de árboles
     n_estimators=200,
 
@@ -140,7 +162,9 @@ modelo.fit(
     y_entrenamiento
 )
 
-print("Modelo entrenado correctamente.")
+print(
+    "Modelo entrenado correctamente."
+)
 
 
 # ==========================================
@@ -165,11 +189,14 @@ def evaluar_predicciones(
 ):
 
     # Total de partidos evaluados
-    total = len(resultados_reales)
+    total = len(
+        resultados_reales
+    )
 
     # Convertimos los datos para compararlos
-    reales = resultados_reales.reset_index(
-        drop=True
+    reales = (
+        resultados_reales
+        .reset_index(drop=True)
     )
 
     predichos = pd.Series(
@@ -182,7 +209,9 @@ def evaluar_predicciones(
     ).sum()
 
     # Los demás son errores
-    fallados = total - acertados
+    fallados = (
+        total - acertados
+    )
 
     # Porcentajes
     porcentaje_acierto = (
@@ -214,7 +243,6 @@ def evaluar_predicciones(
         f"{fallados} "
         f"({porcentaje_error:.2f}%)"
     )
-
 
     return (
         porcentaje_acierto,
@@ -269,15 +297,17 @@ print(
 # 11. MODELO BASE PARA COMPARACIÓN
 # ==========================================
 
-# Creamos una comparación muy sencilla:
+# Creamos una comparación sencilla:
 # predecir SIEMPRE que gana el equipo local.
 #
 # Esto nos permite saber si nuestro modelo
-# realmente supera una estrategia básica.
+# supera una estrategia básica.
 
 prediccion_base = [
     "S"
-    for _ in range(len(y_prueba))
+    for _ in range(
+        len(y_prueba)
+    )
 ]
 
 acierto_base = accuracy_score(

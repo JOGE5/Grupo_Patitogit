@@ -1,13 +1,18 @@
-import pandas as pd
-import os
+from pathlib import Path
 
-ruta = "/home/fabian/.cache/kagglehub/datasets/analystmasters/world-soccer-live-data-feed/versions/2"
+import pandas as pd
+
+RAIZ = Path(__file__).resolve().parents[2]
+
+ruta = (
+    RAIZ
+    / "Data"
+    / "raw"
+    / "predicciones_personas.csv"
+)
 
 archivos = [
-    "analystm_mode_1_v1.csv",
-    "analystm_mode_2_v1.csv",
-    "analystm_mode_3_v1.csv",
-    "analystm_mode_4_v1.csv"
+    "predicciones_personas.csv"
 ]
 
 for archivo in archivos:
@@ -17,7 +22,7 @@ for archivo in archivos:
     print("==============================")
 
     datos = pd.read_csv(
-        os.path.join(ruta, archivo),
+        ruta.parent / archivo,
         low_memory=False
     )
 

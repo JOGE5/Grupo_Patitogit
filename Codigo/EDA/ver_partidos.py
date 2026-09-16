@@ -1,6 +1,15 @@
+from pathlib import Path
+
 import pandas as pd
 
-ruta = "/home/fabian/.cache/kagglehub/datasets/analystmasters/world-soccer-live-data-feed/versions/2/analystm_mode_1_v1.csv"
+RAIZ = Path(__file__).resolve().parents[2]
+
+ruta = (
+    RAIZ
+    / "Data"
+    / "raw"
+    / "predicciones_personas.csv"
+)
 
 datos = pd.read_csv(
     ruta,

@@ -4,13 +4,21 @@
 # ==========================================
 
 import pandas as pd
+from pathlib import Path
+
+RAIZ = Path(__file__).resolve().parents[2]
 
 
 # ==========================================
 # 1. CARGAR DATOS
 # ==========================================
 
-datos = pd.read_csv("partidos_modelo.csv")
+datos = pd.read_csv(
+    RAIZ
+    / "Data"
+    / "processed"
+    / "partidos_modelo.csv"
+)
 
 print("==============================")
 print("EDA - ANÁLISIS EXPLORATORIO")
