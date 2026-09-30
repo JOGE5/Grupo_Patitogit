@@ -8,7 +8,7 @@ Archivo principal:
 ## 1. ¿Qué problema concreto aborda el proyecto?
 
 **Respuesta:**  
-El proyecto busca mejorar la predicción de resultados de partidos de fútbol utilizando estadísticas históricas y técnicas de minería de datos. También compara el desempeño del modelo con las predicciones realizadas por las personas.
+La dificultad para predecir correctamente los resultados de partidos de fútbol debido a la variabilidad de los encuentros y a que las predicciones basadas en la opinión de las personas no siempre coinciden con el resultado real.
 
 **Qué mostrar:**  
 Introducción, planteamiento del problema u objetivo general.
@@ -55,7 +55,7 @@ print(datos.columns.tolist())
 
 **Respuesta:**  
 Se encontraron valores faltantes en varias columnas. En total se detectaron **185.349 celdas con valores faltantes**.  
-Los valores numéricos se completaron con la mediana y los categóricos con la moda. Las variables categóricas se transformaron con One-Hot Encoding.
+Los valores numéricos se completaron con la mediana y los categóricos con la moda. Las variables categóricas se transformaron con One-Hot Encoding(convertir texto en números).
 
 **Qué mostrar:**
 ```python
